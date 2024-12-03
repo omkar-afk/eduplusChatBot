@@ -1,4 +1,5 @@
 python-dotenv
+langchain-community
 torch
 sentence-transformers
 langchain
