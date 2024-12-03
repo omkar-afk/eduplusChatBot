@@ -49,7 +49,7 @@ Respond based on the provided input, ensuring to highlight any links if included
         "Authorization": f"Bearer {api_key}"
     }
     data = {
-        "model": "llama3-8b-8192",
+        "model": "llama3-70b-8192",
         "messages": [{
             "role": "user",
             "content": prompt
