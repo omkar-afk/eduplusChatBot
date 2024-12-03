@@ -1,0 +1,8 @@
+python-dotenv
+torch
+sentence-transformers
+langchain
+openai
+youtube-transcript-api
+faiss-cpu
+streamlit
