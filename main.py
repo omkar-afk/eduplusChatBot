@@ -19,6 +19,6 @@ if query :
         db = lch.create_db()
         response, docs = lch.get_response_from_query(db, query)
         st.subheader("Answer:")
-        st.text(response)
+        st.markdown(response)
         st.subheader("docs:")
         st.text(docs)
