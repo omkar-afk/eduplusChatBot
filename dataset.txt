@@ -1,307 +1,919 @@
-<s>[INST] What is the process to appeal my attendance record? [/INST] You can appeal your attendance record by contacting your instructor or the academic office. </s>
-<s>[INST] How long does it take to get results for a re-evaluation? [/INST] Results for re-evaluation are usually released within a few weeks; check the Examination tab for specific timelines. </s>
-<s>[INST] How do I obtain my hall ticket for exams? [/INST] Your hall ticket can be accessed through the "Hall Ticket" sub-tab in the Examination tab. </s>
-<s>[INST] Can I change my course after admission? [/INST] Course changes are subject to availability and eligibility criteria; consult the admissions office. </s>
-<s>[INST] What happens if I do not submit course feedback by the deadline? [/INST] You will not be able to submit the feedback once you cross the deadline and it is compulsory so it is recommended to not miss it. </s>
-<s>[INST] How do I find peer review opportunities for my assignments? [/INST] Peer review opportunities may be available through your course or academic support services; check with your instructor. </s>
-<s>[INST] How do I cancel my admission? [/INST] From the Home tab, navigate to Admission > Cancel Admission to proceed with cancelling your admission. </s>
-<s>[INST] How do I apply for a fee waiver? [/INST] To apply for a fee waiver, contact the accounts office and submit any required documentation. </s>
-<s>[INST] Is there a penalty for canceling event registration? [/INST] Cancellation policies vary by event; check the event details for more information. </s>
-<s>[INST] What is the purpose of the Document Verification section? [/INST] It helps you track and verify all documents submitted during admission, such as your mark sheets and certificates. </s>
-<s>[INST] Where can I view the semester schedule? [/INST] You can view the whole semester schedule in the Academic Calendar: https://learner.vierp.in/academics_calendar.Steps to navigate: Login -> Home -> Academics -> Academic Calendar </s>
-<s>[INST] How can I confirm my subject registration? [/INST] Confirmation of your subject registration is usually available in the Subject Registration tab. </s>
-<s>[INST] Are quizzes timed? [/INST] Most quizzes are timed; the time limit is usually indicated before you start the quiz. </s>
-<s>[INST] How can I see my assigned homework? [/INST] Assigned homework can be viewed in the Assignment tab under the relevant semester and subject. </s>
-<s>[INST] Can I change my exam date? [/INST] Changing an exam date is generally not permitted; consult the examination office for any exceptions. </s>
-<s>[INST] Can I view a list of subjects offered for the upcoming semester? [/INST] Yes, a list of subjects offered for the upcoming semester is usually available in the Subject Registration tab. </s>
-<s>[INST] Can I request an extension on an assignment? [/INST] Yes, you can request an extension from your instructor, but approval is at their discretion. </s>
-<s>[INST] How to get my time table? [/INST] Go to Time Table > My Time Table > Select Academic Year & Semester. </s>
-<s>[INST] What should I do if a Lesson Plan is missing for a subject? [/INST] Contact your course instructor or the academic office for assistance. </s>
-<s>[INST] Can you show me all the pending assignments? [/INST] The 'Assignments' section will display all your pending assignments across subjects. This includes assignments that have not yet been submitted along with their deadlines. </s>
-<s>[INST] Can I request a certificate if I graduated several years ago? [/INST] Yes, you can request certificates even after graduation; check the requirements in the Certificate tab. </s>
-<s>[INST] How do I update my personal information in the portal? [/INST] Personal information can typically be updated in the Profile Settings section of your account. </s>
-<s>[INST] Can I register for more than one elective subject? [/INST] Yes, but it depends on availability and your academic schedule; be sure to check the first-come, first-served policy. </s>
-<s>[INST] How many lectures have I missed in [subject]? [/INST] Go to the 'Attendance' section and select the subject. It will display the total number of missed lectures, along with your overall attendance in that subject. </s>
-<s>[INST] What is the Document Checklist? [/INST] The Document Checklist lists all the documents you need to upload at the time of admission. </s>
-<s>[INST] Can I track the status of my certificate request? [/INST] Yes, the status of your certificate request can typically be tracked in the Certificate tab. </s>
-<s>[INST] How do I know if I am meeting my program's academic requirements? [/INST] You can track your progress towards academic requirements through your academic advisor or the Academics tab. </s>
-<s>[INST] How can I access my fees receipt? [/INST] You can access your fees receipt in the Fees Receipt sub-tab of the Accounts tab. </s>
-<s>[INST] Can I view Lesson Plans for previous semesters? [/INST] No, Lesson Plans for previous semesters are not typically available. </s>
-<s>[INST] Is there a way to contact faculty members directly through the portal? [/INST] Yes, faculty contact information is usually available in the Academics tab. </s>
-<s>[INST] What happens if an event is canceled? [/INST] If an event is canceled, registered participants will usually be notified, and any fees paid may be refunded. </s>
-<s>[INST] What is the process of admission cancellation? [/INST] You must fill out an online form, and once submitted, it will be reviewed by the administration. </s>
-<s>[INST] What if a subject I want to register for is full? [/INST] If a subject is full, you may be placed on a waitlist; check with the academic office for options. </s>
-<s>[INST] Is there a fee for using online payment services? [/INST] Some online payment methods may charge a convenience fee; check the payment options for details. </s>
-<s>[INST] Can I modify a certificate request after submitting it? [/INST] No, once a request is submitted, you cannot modify it. You may need to cancel and submit a new request. </s>
-<s>[INST] How are quiz results communicated? [/INST] Quiz results are typically communicated via the Quiz tab or through email notifications. </s>
-<s>[INST] What documents are required to cancel my admission? [/INST] You will need to upload your admission letter, fee receipts, and any other required documents. </s>
-<s>[INST] How can I apply for a re-examination? [/INST] You can apply for re-examination in the Apply for Re-examination section: https://learner.vierp.in/reexam-registration.Steps to navigate: Login -> Home -> Examination -> Apply for Re-examination </s>
-<s>[INST] Can I pay fees in installments? [/INST] It depends on the fee type; some fees allow installment payments. </s>
-<s>[INST] When is my next assignment due for [subject]? [/INST] You can find the due date for your next assignment in the 'Assignments' section. Select the subject to view the details of all upcoming assignments and their submission deadlines. </s>
-<s>[INST] Can I submit a late assignment? [/INST] Late submission policies vary; contact your instructor for guidance on late submissions. </s>
-<s>[INST] Can I get a refund if I cancel my event participation after paying? [/INST] Refund policies vary. You should check with the organizing institute for their specific refund policies after cancelling your participation. </s>
-<s>[INST] Where can I request a Date of Birth & Place of Birth Certificate? [/INST] You can request a Date of Birth & Place of Birth Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Date of Birth & Place of Birth Certificate </s>
-<s>[INST] How can I get my grades reviewed? [/INST] To get your grades reviewed, contact your instructor and follow the grade appeal process outlined by the department. </s>
-<s>[INST] Is there a payment option for instalment plans regarding late fees? [/INST] No there are no such instalment plans </s>
-<s>[INST] How do I find sponsors for college events? [/INST] To find sponsors for events, collaborate with the college's event management team or approach local businesses. </s>
-<s>[INST] What should I do if my cheque bounces? [/INST] If your cheque bounces, contact the accounts office to resolve the issue and inquire about any penalties. </s>
-<s>[INST] Are there options to view past timetables? [/INST] Access to past timetables depends on your institution’s system; check for archive options. </s>
-<s>[INST] Are there any specific formats for certificates? [/INST] Specific formats may vary by certificate type; check the guidelines in the Certificate tab. </s>
-<s>[INST] How can I access academic resources like e-books? [/INST] Academic resources, including e-books, can usually be accessed through the library portal linked in the Academics tab. </s>
-<s>[INST] Is there a fee for obtaining a duplicate hall ticket? [/INST] Yes, there may be a nominal fee for issuing a duplicate hall ticket; check the relevant sub-tab for details. </s>
-<s>[INST] What topics are covered in [subject] this week? [/INST] The weekly schedule for the subject, including topics, will be displayed in the 'Lesson Plan' section. You can check what is being taught in the current week. </s>
-<s>[INST] How do I apply for a fee refund? [/INST] Fee refunds are generally handled by the accounts office; you can apply by contacting them directly. </s>
-<s>[INST] Which assignments are still pending for me? [/INST] You can view all pending assignments in the 'Assignments' section of the student portal. This includes both upcoming and past-due assignments for all subjects. </s>
-<s>[INST] What information is needed to pay event fees? [/INST] You will need to select the Organizing Institute and the Event from a list, then proceed with the payment. </s>
-<s>[INST] Can I change my course after admission? [/INST] Changing your course after admission is possible, but it depends on the college's policies; consult your advisor. </s>
-<s>[INST] What areas can I give feedback on in the Institute Feedback tab? [/INST] You can provide feedback on library services, facilities, administration, and overall student experience. </s>
-<s>[INST] What does "freeze for an academic semester" mean? [/INST] Freezing a subject means you have secured your registration for that academic semester and it will not change. </s>
-<s>[INST] How do I pay late fees for subject registration? [/INST] You can pay late registration fees in the Pay Late Fees section: https://learner.vierp.in/late-registration-fees.Steps to navigate: Login -> Home -> Subject Registration -> Pay Late Fees </s>
-<s>[INST] Can I request multiple certificates at once? [/INST] Yes, you can request multiple certificates in a single application, depending on the process outlined in the Certificate tab. </s>
-<s>[INST] How can I find information about scholarship opportunities? [/INST] Scholarship opportunities are typically listed in the Admission tab or the financial aid section of the college website. </s>
-<s>[INST] How do I freeze my subject selection? [/INST] Freezing your subject selection is typically done within the Subject Registration tab after making your choices. </s>
-<s>[INST] Can I set reminders for my fee due dates? [/INST] Yes, you can set reminders for fee due dates in the portal. </s>
-<s>[INST] How do I know if my assignment submission was successful? [/INST] You will receive a confirmation notification after successfully submitting an assignment. </s>
-<s>[INST] What can I provide feedback on in the Feedback tab? [/INST] You can provide feedback on specific courses and the overall institute in the Feedback tab. </s>
-<s>[INST] How do I apply for financial aid? [/INST] To apply for financial aid, complete the required forms available in the Accounts tab or on the college website. </s>
-<s>[INST] Can I remain anonymous while giving feedback? [/INST] Yes, most feedback systems allow you to remain anonymous to encourage honest responses. </s>
-<s>[INST] Can I view assignments from previous semesters? [/INST] Yes, assignments from previous semesters may be available in the archive section. </s>
-<s>[INST] What resources are available for project assistance? [/INST] Resources are typically listed within the Project Monitoring tab or provided by your faculty. </s>
-<s>[INST] Can I track my project's overall progress? [/INST] Yes, you can track the overall progress of your project within the Project Monitoring tab. </s>
-<s>[INST] How do I know if my admission cancellation request has been accepted? [/INST] You will receive a notification on your portal and via email once the cancellation is processed. </s>
-<s>[INST] What should I do if I find discrepancies in my grade card? [/INST] Report any discrepancies to the examination office immediately with supporting documentation. </s>
-<s>[INST] What should I do if I'm struggling in a class? [/INST] If you're struggling, consider reaching out to your instructor or utilizing tutoring services available through the Academics tab. </s>
-<s>[INST] How is attendance calculated? [/INST] Attendance is calculated as a percentage based on the total number of classes attended versus the total number of classes held. </s>
-<s>[INST] Are quizzes graded on a curve? [/INST] Grading policies vary; consult your instructor to find out if a curve is applied. </s>
-<s>[INST] Can you show me the academic calendar for this year? [/INST] The academic calendar is available in the student portal. Select the current academic year and semester, and it will display the entire academic schedule, including holidays, events, and examination dates. If it's unavailable, meet XXXX mam/sir at desk no. XX. </s>
-<s>[INST] How can I get a Character Certificate? [/INST] You can request a Character Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Character Certificate </s>
-<s>[INST] How often are fee receipts updated? [/INST] Fee receipts are updated immediately after a successful transaction. </s>
-<s>[INST] Where can I check the details of the social welfare scheme I applied for? [/INST] You can check the details of your applied social welfare scheme in the Social Welfare Details section: https://learner.vierp.in/social-welfare-details.Steps to navigate: Login -> Home -> Accounts -> Social Welfare Details </s>
-<s>[INST] How do I provide feedback on campus safety or facilities? [/INST] You can see similar questions in Institute feedback where you can rate your experience regarding a particular facility. </s>
-<s>[INST] Are there any upcoming academic workshops listed? [/INST] Upcoming workshops will be announced in the Academics tab and on the portal homepage. </s>
-<s>[INST] How can I access the academic calendar from my mobile device? [/INST] You can access the academic calendar through the mobile version of the college portal or the official app. </s>
-<s>[INST] How do I submit tasks for my project? [/INST] Tasks can be submitted directly through the Project Monitoring tab as directed by your faculty. </s>
-<s>[INST] What payment methods are accepted for event fees? [/INST] The payment methods vary based on the system used by the organizing institute. Common methods include credit/debit cards, net banking, or UPI. </s>
-<s>[INST] Are quiz scores included in my final grade? [/INST] Yes, quiz scores are typically included in your overall course grade. </s>
-<s>[INST] Can I edit my feedback after submission? [/INST] Editing feedback after submission is generally not allowed; double-check your responses before submitting. </s>
-<s>[INST] What happens if I don’t meet the eligibility criteria? [/INST] If you don’t meet the criteria, your application may be rejected. Contact admissions for further clarification. </s>
-<s>[INST] How can I prepare for quizzes effectively? [/INST] Reviewing lecture notes, using study guides, and forming study groups can help you prepare effectively. </s>
-<s>[INST] What is the process to request a Character Certificate? [/INST] Similar to other certificates, go to the "Certificate" tab, select "Character Certificate," and submit your request. </s>
-<s>[INST] How do I confirm successful registration for all my subjects? [/INST] Once you freeze the subject details, you have successfully registered </s>
-<s>[INST] Are group assignments allowed? [/INST] Yes, group assignments are allowed; check with your instructor for group policies. </s>
-<s>[INST] How do I log out of the portal? [/INST] You can log out by clicking on the "Logout" button located in the upper-right corner of the portal. </s>
-<s>[INST] Can I submit assignments online? [/INST] Yes, most assignments can be submitted directly through the portal. </s>
-<s>[INST] How can I ensure my feedback is constructive? [/INST] Focus on specific observations, suggest improvements, and maintain a respectful tone in your feedback. </s>
-<s>[INST] How do I pay the annual fee through this tab? [/INST] Navigate to the "Pay Annual Fee" sub-tab and follow the payment instructions provided. </s>
-<s>[INST] Can I download the Lesson Plan? [/INST] Yes, there is an option to download the Lesson Plan. </s>
-<s>[INST] Can I request certificates for past semesters? [/INST] Yes, certificates for previous semesters can be requested through the Certificate tab. </s>
-<s>[INST] How do I get a receipt for the late fees paid? [/INST] Once you pay the fees, the receipt will be generated automatically. </s>
-<s>[INST] Is there a deadline for withdrawing from a course? [/INST] Yes, deadlines for withdrawing from courses are usually listed in the academic calendar. </s>
-<s>[INST] Are there any fees associated with attending events? [/INST] Some events may have fees; check the Event tab for specific details. </s>
-<s>[INST] How can I inquire about the status of my financial aid application? [/INST] You can check the status of your financial aid application by contacting the financial aid office or through the portal. </s>
-<s>[INST] What if I can't access the portal to submit my assignment? [/INST] Contact technical support or your instructor to report any issues with portal access. </s>
-<s>[INST] How do I obtain a duplicate Degree Certificate? [/INST] To obtain a duplicate Degree Certificate, submit a request through the Certificate tab, including necessary documentation. </s>
-<s>[INST] Are there any restrictions on the number of subjects I can register for? [/INST] Yes, there are often restrictions based on your program’s requirements; check with the academic office. </s>
-<s>[INST] Is there a specific time when feedback is collected? [/INST] Feedback is typically collected at the end of each semester or after major assessments. </s>
-<s>[INST] Can I drop a subject after registration? [/INST] Dropping a subject may be allowed but typically requires formal approval; check your institution's policies. </s>
-<s>[INST] Are there deadlines for submitting project tasks? [/INST] Yes, deadlines are usually set by the faculty and are communicated through the Project Monitoring tab. </s>
-<s>[INST] Can I provide feedback on my timetable? [/INST] Feedback about timetable issues can usually be submitted to the academic office or administration. </s>
-<s>[INST] Where can I view my event fee receipt? [/INST] You can view your event fee receipt in the Event Fee Receipt section: https://learner.vierp.in/event_fee_receipt_insider.Steps to navigate: Login -> Home -> Event -> Event Fee Receipt </s>
-<s>[INST] How do I submit a project report? [/INST] Submit your project report through the designated submission section in the Project Monitoring tab. </s>
-<s>[INST] Where can I find the fee structure for my program? [/INST] The fee structure for your program is available in the Fees Receipt sub-tab or on the college website. </s>
-<s>[INST] How do I know if my attendance is satisfactory? [/INST] Your attendance percentage is displayed in the Attendance sub-tab, and you can check if it meets college requirements. </s>
-<s>[INST] Are there scholarships available for students? [/INST] Yes, information about scholarships can be found in the Accounts tab or through the financial aid office. </s>
-<s>[INST] How do I report an error in my timetable? [/INST] Report any errors to your faculty advisor or the academic office for correction. </s>
-<s>[INST] What is the deadline for admission applications? [/INST] Admission deadlines are usually listed on the college's website and in the Admission tab. </s>
-<s>[INST] Can I get a breakdown of my late fee charges? [/INST] The breakdown of late fees is (200/- *no. of days until fees paid) </s>
-<s>[INST] Can I download my certificate from the portal? [/INST] Yes, once issued, your certificate will be available for download. </s>
-<s>[INST] Is there a mobile app for accessing my timetable? [/INST] Many institutions offer mobile apps for easy access; check if your institution provides one. </s>
-<s>[INST] How do I request a payment receipt for offline transactions? [/INST] Contact the accounts office to request a receipt for any offline payments made. </s>
-<s>[INST] How to Upload SRS Document? [/INST] Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under SRS & Upload the file from File Manager. </s>
-<s>[INST] What is the processing time for certificate requests? [/INST] Processing times vary; refer to the Certificate tab for estimated timelines. </s>
-<s>[INST] Can I submit additional documents to support my eligibility? [/INST] Yes, if needed, additional documents can be uploaded to support your eligibility. </s>
-<s>[INST] How can I stay updated on college events and announcements? [/INST] Stay updated by checking the Event tab and the college's announcements section regularly. </s>
-<s>[INST] Can I see the weekly breakdown of topics in the Lesson Plan? [/INST] Yes, the Lesson Plan includes a weekly breakdown of topics. </s>
-<s>[INST] How are exam schedules communicated to students? [/INST] Exam schedules are usually communicated via the Examination tab, email, and institutional notices. </s>
-<s>[INST] Can I participate in events as a team? [/INST] Yes, many events allow team participation; check the event guidelines for more information. </s>
-<s>[INST] Where can I view my grade card or marksheet? [/INST] You can view your grade card or marksheet in the "Grade Card/Marksheet" sub-tab. </s>
-<s>[INST] What should I do if I encounter technical issues while submitting assignments? [/INST] If you encounter technical issues, contact technical support or your instructor for assistance. </s>
-<s>[INST] How can I access project-related resources? [/INST] Resources are often linked within the Project Monitoring tab or provided by your faculty. </s>
-<s>[INST] How can I view my group members' contributions? [/INST] Contributions can often be tracked through the project monitoring tool, where tasks are assigned. </s>
-<s>[INST] Is the Academic Calendar the same for all courses? [/INST] No, it may vary depending on your course or department. </s>
-<s>[INST] How are assignments graded? [/INST] Each assignment is graded based on the instructor’s evaluation criteria, which can vary by course. </s>
-<s>[INST] How do I apply for a special exam due to medical reasons? [/INST] Contact the examination office with your medical documentation to request a special exam. </s>
-<s>[INST] Where can I find the dates of midterm exams? [/INST] Midterm exam dates are included in the Academic Calendar. </s>
-<s>[INST] What should I do if the Lesson Plan does not match what is being taught? [/INST] Contact your course instructor to clarify the discrepancy. </s>
-<s>[INST] Are there any discounts available for early fee payments? [/INST] Check with the accounts office for any discounts available for early fee payments. </s>
-<s>[INST] How do I appeal a grade? [/INST] To appeal a grade, follow the procedure outlined by your department, usually found in the Academics tab. </s>
-<s>[INST] How do I check for any holds on my account? [/INST] Holds on your account can usually be viewed in the Accounts tab. </s>
-<s>[INST] Can I access the portal from my mobile device? [/INST] Yes, the portal is usually mobile-friendly and can be accessed from smartphones and tablets. </s>
-<s>[INST] How do I find out about academic support workshops? [/INST] Information about academic support workshops is typically found in the Academics tab or on the student services page. </s>
-<s>[INST] What is the purpose of the Project Monitoring tab? [/INST] The Project Monitoring tab allows faculty to create project groups, assign tasks, and track student progress on projects. </s>
-<s>[INST] How can I report a problem with a course or instructor? [/INST] Problems with courses or instructors can usually be reported through the student feedback form in the Academics tab. </s>
-<s>[INST] How can I check if my backlog application was successful? [/INST] You can check the status of your backlog application in the Examination tab under the "Backlog/Summer Grade Card/Marksheet" sub-tab. </s>
-<s>[INST] Are there any fees associated with participating in college events? [/INST] Yes, some events may have participation fees, which can be paid through the Pay Event Fees sub-tab. </s>
-<s>[INST] How do I apply for re-evaluation of my exam? [/INST] You can apply for re-evaluation by selecting the "Apply for Re-evaluation" sub-tab and completing the application process. </s>
-<s>[INST] How long does it take to get results for a re-evaluation? [/INST] Results for re-evaluation are usually released within a few weeks; check the Examination tab for specific timelines. </s>
-<s>[INST] What happens if I do not submit course feedback by the deadline? [/INST] You will not be able to submit the feedback once you cross the deadline and it is compulsory so it is recommended to not miss it. </s>
-<s>[INST] How do I find peer review opportunities for my assignments? [/INST] Peer review opportunities may be available through your course or academic support services; check with your instructor. </s>
-<s>[INST] What is the purpose of the Document Verification section? [/INST] It helps you track and verify all documents submitted during admission, such as your mark sheets and certificates. </s>
-<s>[INST] Can I view a list of subjects offered for the upcoming semester? [/INST] Yes, a list of subjects offered for the upcoming semester is usually available in the Subject Registration tab. </s>
-<s>[INST] Can I request a certificate if I graduated several years ago? [/INST] Yes, you can request certificates even after graduation; check the requirements in the Certificate tab. </s>
-<s>[INST] Can I register for more than one elective subject? [/INST] Yes, but it depends on availability and your academic schedule; be sure to check the first-come, first-served policy. </s>
-<s>[INST] How do I know if I am meeting my program's academic requirements? [/INST] You can track your progress towards academic requirements through your academic advisor or the Academics tab. </s>
-<s>[INST] How can I access academic resources like e-books? [/INST] Academic resources, including e-books, can usually be accessed through the library portal linked in the Academics tab. </s>
-<s>[INST] Is there a fee for obtaining a duplicate hall ticket? [/INST] Yes, there may be a nominal fee for issuing a duplicate hall ticket; check the relevant sub-tab for details. </s>
-<s>[INST] What areas can I give feedback on in the Institute Feedback tab? [/INST] You can provide feedback on library services, facilities, administration, and overall student experience. </s>
-<s>[INST] Can I request multiple certificates at once? [/INST] Yes, you can request multiple certificates in a single application, depending on the process outlined in the Certificate tab. </s>
-<s>[INST] How can I find information about scholarship opportunities? [/INST] Scholarship opportunities are typically listed in the Admission tab or the financial aid section of the college website. </s>
-<s>[INST] How do I know if my admission cancellation request has been accepted? [/INST] You will receive a notification on your portal and via email once the cancellation is processed. </s>
-<s>[INST] What should I do if I'm struggling in a class? [/INST] If you're struggling, consider reaching out to your instructor or utilizing tutoring services available through the Academics tab. </s>
-<s>[INST] How do I provide feedback on campus safety or facilities? [/INST] You can see similar questions in Institute feedback where you can rate your experience regarding a particular facility. </s>
-<s>[INST] How can I access the academic calendar from my mobile device? [/INST] You can access the academic calendar through the mobile version of the college portal or the official app. </s>
-<s>[INST] What payment methods are accepted for event fees? [/INST] The payment methods vary based on the system used by the organizing institute. Common methods include credit/debit cards, net banking, or UPI. </s>
-<s>[INST] What happens if I don’t meet the eligibility criteria? [/INST] If you don’t meet the criteria, your application may be rejected. Contact admissions for further clarification. </s>
-<s>[INST] What is the process to request a Character Certificate? [/INST] Similar to other certificates, go to the "Certificate" tab, select "Character Certificate," and submit your request. </s>
-<s>[INST] How can I inquire about the status of my financial aid application? [/INST] You can check the status of your financial aid application by contacting the financial aid office or through the portal. </s>
-<s>[INST] How do I obtain a duplicate Degree Certificate? [/INST] To obtain a duplicate Degree Certificate, submit a request through the Certificate tab, including necessary documentation. </s>
-<s>[INST] Are there any restrictions on the number of subjects I can register for? [/INST] Yes, there are often restrictions based on your program’s requirements; check with the academic office. </s>
-<s>[INST] How do I know if my attendance is satisfactory? [/INST] Your attendance percentage is displayed in the Attendance sub-tab, and you can check if it meets college requirements. </s>
-<s>[INST] What should I do if I encounter technical issues while submitting assignments? [/INST] If you encounter technical issues, contact technical support or your instructor for assistance. </s>
-<s>[INST] How do I register for a subject? [/INST] You can register for a subject by selecting the desired elective and completing the registration process in the Subject Registration tab. </s>
-<s>[INST] What details are included in the Event Report? [/INST] The Event Report includes information about events you participated in, such as dates, results, and your role in the event. </s>
-<s>[INST] What are the late fee policies for subject registration? [/INST] The late fee policy is that if the student does not pay the fees before the due date, he must pay a penalty of 200/- per day until paid. </s>
-<s>[INST] What information can I find in the My Timetable section? [/INST] In the My Timetable section, you can view your division timetable and your personal lecture, lab, and tutorial schedules. </s>
-<s>[INST] What documents are required for the Eligibility Form? [/INST] You will need to provide educational certificates, identification documents, and any other required documents. </s>
-<s>[INST] How can I communicate with my project group? [/INST] Communication methods may include group chats, emails, or the project monitoring tool, depending on the faculty’s setup. </s>
-<s>[INST] What happens if some of my documents are marked as pending? [/INST] You will need to submit the pending documents in person or upload them if an online submission option is available. </s>
-<s>[INST] Are there any study groups available for my courses? [/INST] Study groups may be organized by students or offered through academic support services; check the Academics tab for details. </s>
-<s>[INST] What is the purpose of the Institute Feedback sub-tab? [/INST] The Institute Feedback sub-tab allows you to provide feedback on facilities like the library and overall institute services. </s>
-<s>[INST] How do I verify if my documents are pending or submitted? [/INST] Navigate to Home > Admission > Document Verification to view the status of each document (Original, Attested, Pending). </s>
-<s>[INST] How can I access my timetable from my mobile device? [/INST] If the portal has a mobile-friendly version or app, you can access your timetable there; otherwise, use a web browser. </s>
-<s>[INST] What happens if I forget to register for a subject? [/INST] If you miss the registration period, you may need to wait for the next semester or apply for a late registration. </s>
-<s>[INST] What options are available under the admission tab? [/INST] The Admission tab includes the following sub-tabs: Cancel Admission, Document Verification, and Eligibility Form. </s>
-<s>[INST] Are there any prerequisites for registering for elective subjects? [/INST] Yes, some elective subjects may have prerequisites; check the course requirements in the Subject Registration tab. </s>
-<s>[INST] Are there any deadlines I should be aware of in the Academics Calendar? [/INST] Yes, the Academics Calendar outlines all important deadlines, including exam dates and assignment submissions. </s>
-<s>[INST] How can I access my grade card after results are released? [/INST] Your grade card will be available for download in the "Grade Card/Marksheet" sub-tab of the Examination tab. </s>
-<s>[INST] Can I give feedback on the administrative staff? [/INST] Yes, you can see similar questions in Institute feedback where you can rate your experience regarding an administrative staff. </s>
-<s>[INST] Is there a specific format for submitting course feedback? [/INST] Generally, there is no strict format; just provide your thoughts in the designated text box in the Course Feedback sub-tab. </s>
-<s>[INST] What is the deadline for subject registration? [/INST] The deadline for subject registration is announced at the beginning of each semester; check the tab for specific dates. </s>
-<s>[INST] Can I see a list of events before paying the fees? [/INST] Yes, the Pay Event Fees section will display a list of events organized by different institutes. You can select the event from the list. </s>
-<s>[INST] How can I check the status of my admission application? [/INST] You can check your admission application status in the Admission tab or by contacting the admission office. </s>
-<s>[INST] Where can I find the event participation history? [/INST] You can view your participation history in the Event Report section, accessible via Home > Event > Event Report. </s>
-<s>[INST] What documents do I need to provide for a backlog application? [/INST] Typically, you will need your identification and any relevant academic records; check the guidelines for specifics. </s>
-<s>[INST] What do I do if I cannot attend an event I registered for? [/INST] If you cannot attend, notify the event organizers in advance, if possible, to inform them of your absence. </s>
-<s>[INST] Can I request a certificate if I am still enrolled? [/INST] Yes, you can request certain certificates even if you are still enrolled; check the requirements in the Certificate tab. </s>
-<s>[INST] Can I receive updates on changes made based on feedback? [/INST] Institutions may provide updates via email or announcements; check the institute's communication channels. </s>
-<s>[INST] Can I request a certificate for participation in extracurricular activities? [/INST] Yes, certificates for extracurricular activities can usually be requested through the appropriate department. </s>
-<s>[INST] What is the procedure for submitting the eligibility form? [/INST] The eligibility form can be submitted online through the Admission tab; ensure all required documents are attached. </s>
-<s>[INST] What is the difference between re-registration and re-evaluation? [/INST] Re-registration is for enrolling in a course again, while re-evaluation is for requesting a review of your grades. </s>
-<s>[INST] Can I collect a physical copy of my certificate from the office? [/INST] Yes, you can collect a physical copy after the online version is available, if your institution offers this option. </s>
-<s>[INST] How are marks distributed in the grade card? [/INST] Marks are typically distributed based on assignments, quizzes, exams, and participation; refer to your course syllabus for specifics. </s>
-<s>[INST] Are there student clubs and organizations I can join? [/INST] Yes, information about student clubs and organizations can be found in the Student Life section of the portal. </s>
-<s>[INST] What kind of feedback can I give on the library? [/INST] You can provide feedback on resources, staff assistance, and overall environment in the Institute Feedback sub-tab. </s>
-<s>[INST] How do I appeal a grade I believe is incorrect? [/INST] To appeal a grade, follow the procedure outlined in the academic policies, usually involving communication with your instructor. </s>
-<s>[INST] Can I suggest improvements in the Feedback tab? [/INST] Yes, you can suggest improvements and comment on the availability of facilities in the Institute Feedback sub-tab. </s>
-<s>[INST] Can I request a certificate for volunteering activities? [/INST] Yes, certificates for volunteering activities can typically be requested through the Certificate tab, if offered by the college. </s>
-<s>[INST] What should I do if I can't attend an event I registered for? [/INST] If you can't attend, inform the event organizers as soon as possible, and check if refunds are available. </s>
-<s>[INST] What happens if my attendance falls below the required minimum? [/INST] You may not be allowed to sit for exams if your attendance is below the required minimum. Contact your department for details. </s>
-<s>[INST] What should I do if I have not received my grade card? [/INST] If you haven’t received your grade card, contact the examination office or check the "Grade Card/Marksheet" sub-tab for any updates. </s>
-<s>[INST] How can I check if there are any changes to the academic calendar? [/INST] Updates to the academic calendar will be reflected in the Academics Calendar sub-tab and announced via notifications. </s>
-<s>[INST] How can I access my backlog/summer grade card or marksheet? [/INST] The backlog/summer grade card or marksheet can be found under the "Backlog/Summer Grade Card/Marksheet" sub-tab. </s>
-<s>[INST] What if I need to pay for multiple events? [/INST] You can pay for each event individually in Home > Event > Pay Event Fees by selecting the event and completing the payment process. </s>
-<s>[INST] How do I submit my final transcripts after admission? [/INST] Final transcripts can be submitted to the admission office in person or via email, as instructed during admission. </s>
-<s>[INST] Are there deadlines for requesting certain certificates? [/INST] Yes, some certificates may have deadlines for requests; check the Certificate tab for specific information. </s>
-<s>[INST] What if I have technical issues while submitting feedback? [/INST] Contact the IT support team for assistance if you encounter technical problems while submitting feedback. </s>
-<s>[INST] What steps should I take if I plan to transfer to another institution? [/INST] To transfer, consult your academic advisor for the necessary steps and ensure your credits will transfer. </s>
-<s>[INST] What functionalities does the Subject Registration tab offer? [/INST] The Subject Registration tab allows students to register for subjects, pay late fees, and pay the annual fee. </s>
-<s>[INST] What payment methods are accepted for fees? [/INST] The college accepts various payment methods, including credit/debit cards, bank transfers, and online payment services. </s>
-<s>[INST] How do I know if my event fee payment was successful? [/INST] After payment, a confirmation will be displayed, and you can view your fee receipt in Home > Event > Event Fee Receipt. </s>
-<s>[INST] What should I do if I encounter issues during registration? [/INST] If you face any issues, contact the administration office or seek assistance in the Subject Registration tab. </s>
-<s>[INST] Can I edit my Eligibility Form after submission? [/INST] Typically, once the Eligibility Form is submitted, you cannot edit it. However, check with the admissions office if changes are needed. </s>
-<s>[INST] What is the procedure if I fail my backlog exam? [/INST] You will need to reapply for the backlog exam, following the process outlined in the "Apply for Backlog" sub-tab. </s>
-<s>[INST] What types of events are typically held at the college? [/INST] Events can include cultural programs, workshops, seminars, sports events, and more, as listed in the Event tab. </s>
-<s>[INST] What should I do if I have an idea for a student initiative? [/INST] You can propose your idea to the student council or relevant committees; check the Student Life section for more information. </s>
-<s>[INST] How long does it take for feedback to be reviewed? [/INST] Feedback is typically reviewed at the end of each semester, and changes may be implemented in subsequent terms. </s>
-<s>[INST] Are there any orientation programs for new students? [/INST] Yes, orientation programs for new students are usually held before the semester starts; details are available in the Admission tab. </s>
-<s>[INST] What is the Eligibility Form and how can I fill it out? [/INST] The Eligibility Form is used to confirm that you meet admission criteria. Access it via Home > Admission > Eligibility Form. </s>
-<s>[INST] Is there a fee for applying for re-examination? [/INST] Yes, there may be a fee associated with applying for re-examination, which will be detailed in the respective sub-tab. </s>
-<s>[INST] What is the process for getting a Character Certificate? [/INST] To get a Character Certificate, fill out the request form in the Certificate tab and submit any required documentation. </s>
-<s>[INST] Are there any events specifically for new students? [/INST] Yes, events for new students are often organized at the beginning of the semester; check the Event tab for details. </s>
-<s>[INST] How do I change my bank details for e-mandate? [/INST] To change your bank details for e-mandate, contact the accounts office or follow the procedures in the Accounts tab. </s>
-<s>[INST] Can I view the progress of other groups? [/INST] Access to other groups' progress is typically restricted to maintain confidentiality; you can only view your own group’s status. </s>
-<s>[INST] When can I expect to receive my exam results? [/INST] Exam results are typically released within a few weeks after the examination; check the Examination tab for updates. </s>
-<s>[INST] What happens if I miss the deadline for subject registration? [/INST] If you miss the registration deadline, you may have to pay a late fee, which can be processed in the Subject Registration tab. </s>
-<s>[INST] What are the consequences of submitting negative feedback? [/INST] There are no such consequences as your feedback is confidential but make sure that you give genuine feedback! </s>
-<s>[INST] How can I provide feedback on an event I attended? [/INST] Feedback can often be provided through a survey or form shared after the event; check the Event tab for options. </s>
-<s>[INST] What are the consequences of not paying my fees on time? [/INST] Consequences may include late fees, holds on your account, or restrictions on registration for future courses. </s>
-<s>[INST] What are the admission requirements for international students? [/INST] Admission requirements for international students are usually listed on the college's website or the Admission tab. </s>
-<s>[INST] How can I contact the admission office for queries? [/INST] Contact details for the admission office are typically available in the Admission tab or on the college website. </s>
-<s>[INST] What options are available in the Examination tab? [/INST] The Examination tab includes options for applying for backlogs, re-registration, re-evaluation, re-examination, and accessing grade cards and hall tickets. </s>
-<s>[INST] How to Upload Project Report? [/INST] Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under Project Monitor & Upload the file from File Manager. </s>
-<s>[INST] Where can I download my Hall Ticket? [/INST] You can download your Hall Ticket in the Hall Ticket section: https://learner.vierp.in/HallTicket.Steps to navigate: Login -> Home -> Examination -> Hall Ticket </s>
-<s>[INST] Where can I view the semester schedule? [/INST] You can view the whole semester schedule in the Academic Calendar: https://learner.vierp.in/academics_calendar.Steps to navigate: Login -> Home -> Academics -> Academic Calendar </s>
-<s>[INST] Can you show me all the pending assignments? [/INST] The 'Assignments' section will display all your pending assignments across subjects. This includes assignments that have not yet been submitted along with their deadlines. </s>
-<s>[INST] How many lectures have I missed in [subject]? [/INST] Go to the 'Attendance' section and select the subject. It will display the total number of missed lectures, along with your overall attendance in that subject. </s>
-<s>[INST] When is my next assignment due for [subject]? [/INST] You can find the due date for your next assignment in the 'Assignments' section. Select the subject to view the details of all upcoming assignments and their submission deadlines. </s>
-<s>[INST] Can I get a refund if I cancel my event participation after paying? [/INST] Refund policies vary. You should check with the organizing institute for their specific refund policies after cancelling your participation. </s>
-<s>[INST] What topics are covered in [subject] this week? [/INST] The weekly schedule for the subject, including topics, will be displayed in the 'Lesson Plan' section. You can check what is being taught in the current week. </s>
-<s>[INST] Which assignments are still pending for me? [/INST] You can view all pending assignments in the 'Assignments' section of the student portal. This includes both upcoming and past-due assignments for all subjects. </s>
-<s>[INST] How can I get a Character Certificate? [/INST] You can request a Character Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Character Certificate </s>
-<s>[INST] Where can I view my event fee receipt? [/INST] You can view your event fee receipt in the Event Fee Receipt section: https://learner.vierp.in/event_fee_receipt_insider.Steps to navigate: Login -> Home -> Event -> Event Fee Receipt </s>
-<s>[INST] How to Upload SRS Document? [/INST] Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under SRS & Upload the file from File Manager. </s>
-<s>[INST] What topics are being taught next week in [subject]? [/INST] The lesson plan for next week can be found in the 'Lesson Plan' section. Select the subject to get a detailed list of topics that will be covered. </s>
-<s>[INST] How can I access the Eligibility Form for admission? [/INST] You can access the Eligibility Form in the Eligibility Form section: https://learner.vierp.in/uploadsoftcopy.Steps to navigate: Login -> Home -> Admission -> Eligibility Form </s>
-<s>[INST] What types of documents are required for admission verification? [/INST] Required documents may include mark sheets, caste certificates, domicile certificates, and other relevant documents, listed in Document Verification. </s>
-<s>[INST] Can I get my overall attendance percentage? [/INST] Your overall attendance percentage is available in the 'Attendance' section of the student portal. It includes all subjects, with the number of lectures attended and missed for each. </s>
-<s>[INST] What was my attendance on [specific date]? [/INST] To view your attendance for a specific date, select the date in the 'Attendance' section. The system will show your presence or absence for each subject on that date. </s>
-<s>[INST] When is the next holiday? [/INST] The next holiday can be found in the academic calendar. After selecting the current month, it will show you the upcoming holidays and any institute-related events scheduled before the holiday. </s>
-<s>[INST] How can I get detailed information about an event? [/INST] You can view event-related information in the Event Report section: https://learner.vierp.in/view-event-fee-report.Steps to navigate: Login -> Home -> Event -> Event Report </s>
-<s>[INST] How can I set up automatic fee payments? [/INST] You can set up automatic fee payments in the E-mandate section: https://learner.vierp.in/Emandate.Steps to navigate: Login -> Home -> Accounts -> E-mandate </s>
-<s>[INST] How do I give anonymous feedback on my courses? [/INST] The feedback you give is confidential and you can do the same by following this: Go to Feedback->Click on Course Feedback and select the option “PROCEED” </s>
-<s>[INST] How do I obtain a bonafide certificate for a passport application? [/INST] You can request a bonafide certificate for passport purposes through the Certificate tab, specifying the purpose in your application. </s>
-<s>[INST] What is the deadline for my assignment in [subject]? [/INST] The deadline for an assignment can be found in the 'Assignments' section. Select the subject and it will display the assignment details, including the deadline. </s>
-<s>[INST] Where can I see my personalized timetable? [/INST] You can view your personalized timetable in the My Time Table section: https://learner.vierp.in/mytimetable.Steps to navigate: Login -> Home -> My Timetable -> My Time Table </s>
-<s>[INST] How to Upload Synopsis? [/INST] Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under Synopsis & Upload the file from File Manager. </s>
-<s>[INST] How can I view the assignments allocated to me? [/INST] You can view all allocated assignments semester-wise and subject-wise in the Assignment section: https://learner.vierp.in/ASPORTAL.Steps to navigate: Login -> Home -> Assignment </s>
-<s>[INST] How can I check my semester-wise subject attendance? [/INST] You can check your semester-wise subject attendance in the Attendance section: https://learner.vierp.in/attendance.Steps to navigate: Login -> Home -> Academics -> Attendance </s>
-<s>[INST] How can I update my subject registration? [/INST] You get the option only during the beginning of semester where you must tick the subject included in the course and choose your elective. Once the list is freeze it cannot be changed. </s>
-<s>[INST] Which lectures was I absent for last month? [/INST] You can view your absences for the previous month by selecting the 'Attendance History' section. It will list the dates and subjects where you were marked absent. </s>
-<s>[INST] How can I provide feedback for the courses I have studied? [/INST] You can provide course feedback in the Course Feedback section: https://learner.vierp.in/student-feedback.Steps to navigate: Login -> Home -> Feedback -> Course Feedback </s>
-<s>[INST] How can I initiate the process to cancel my admission? [/INST] You can initiate the cancellation of your admission in the Cancel Admission section: https://learner.vierp.in/admissioncancel.Steps to navigate: Login -> Home -> Admission -> Cancel Admission </s>
-<s>[INST] Where can I give feedback about the institute and facilities? [/INST] You can provide institute-related feedback in the Institute Feedback section: https://learner.vierp.in/institute-feedback.Steps to navigate: Login -> Home -> Feedback -> Institute Feedback </s>
-<s>[INST] How can I apply for a re-examination? [/INST] You can apply for re-examination in the Apply for Re-examination section: https://learner.vierp.in/reexam-registration.Steps to navigate: Login -> Home -> Examination -> Apply for Re-examination </s>
-<s>[INST] How do I pay late fees for subject registration? [/INST] You can pay late registration fees in the Pay Late Fees section: https://learner.vierp.in/late-registration-fees.Steps to navigate: Login -> Home -> Subject Registration -> Pay Late Fees </s>
-<s>[INST] Have I submitted my assignment for [subject]? [/INST] In the 'Assignments' section, select the subject to check whether the assignment has been submitted. If submitted, the status will show as 'Submitted,' and if pending, it will be marked as 'Pending.' </s>
-<s>[INST] Where can I find the syllabus and course plan for my subjects? [/INST] You can find the syllabus and course plan in the Lesson Plan section: https://learner.vierp.in/lessonplan.Steps to navigate: Login -> Home -> Academics -> Lesson Plan </s>
-<s>[INST] How is my attendance in [specific subject]? [/INST] To view your attendance for a specific subject, go to the 'Attendance' section, select the subject name, and it will show your attendance details including percentage and number of lectures attended/missed. </s>
-<s>[INST] Are there specific guidelines for writing course feedback? [/INST] No, it is a simple multiple-choice format where you select an answer based on your experience. The options typically range in order from 'Very Bad,' 'Bad,' 'Okay,' 'Good,' to 'Very Good.' </s>
-<s>[INST] What is my attendance for [subject]? [/INST] You can view your attendance for a specific subject by selecting the subject name in the 'Attendance' section of the student portal. It will show your attendance percentage and the number of lectures attended. </s>
-<s>[INST] Where can I apply for re-registration? [/INST] You can apply for re-registration in the Apply for Re-registration section: https://learner.vierp.in/re-registration.Steps to navigate: Login -> Home -> Examination -> Apply for Re-registration </s>
-<s>[INST] How can I check my division's timetable? [/INST] You can view your division's timetable in the My Division Time Table section: https://learner.vierp.in/division-timetable.Steps to navigate: Login -> Home -> My Timetable -> My Division Time Table </s>
-<s>[INST] How can I request a Regular Bonafide Certificate? [/INST] You can request a Regular Bonafide Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Regular Bonafide Certificate </s>
-<s>[INST] How do I apply for re-evaluation of my exam? [/INST] You can apply for re-evaluation in the Apply for Re-evaluation section: https://learner.vierp.in/reval-registration.Steps to navigate: Login -> Home -> Examination -> Apply for Re-evaluation </s>
-<s>[INST] How can I request a Certificate of Course Duration? [/INST] You can request a Certificate of Course Duration in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Certificate of Course Duration </s>
-<s>[INST] How can I pay fees to participate in an event? [/INST] You can pay the event fees by selecting the event in the Pay Event Fees section: https://learner.vierp.in/choose_event_insider.Steps to navigate: Login -> Home -> Event -> Pay Event Fees </s>
-<s>[INST] How do I apply for a Duplicate Transfer Certificate (TC) in case of loss? [/INST] You can request a Duplicate Transfer Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Duplicate TC </s>
-<s>[INST] What is the lesson plan for [subject]? [/INST] The lesson plan for a particular subject can be accessed from the 'Lesson Plan' section. Select the subject to view the weekly plan, which includes topics to be covered and learning objectives. </s>
-<s>[INST] How do I access my regular Grade Card or Marksheet? [/INST] You can access your Grade Card or Marksheet in the Grade Card section: https://learner.vierp.in/grade-card.Steps to navigate: Login -> Home -> Examination -> Grade Card/Marksheet </s>
-<s>[INST] How can I apply for a backlog examination? [/INST] You can apply for a backlog examination in the Apply for Backlog section: https://learner.vierp.in/backlog-registration.Steps to navigate: Login -> Home -> Examination -> Apply for Backlog </s>
-<s>[INST] What events are planned for [month]? [/INST] To find out what events are scheduled for a particular month, check the academic calendar section. This will show events such as sports, cultural fests, or academic activities planned by the institute. </s>
-<s>[INST] How do I apply for a Bonafide Certificate for Passport? [/INST] You can request a Bonafide for Passport in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Bonafide for Passport </s>
-<s>[INST] How do I apply for a Transference Certificate? [/INST] You can request a Transference Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Transference Certificate </s>
-<s>[INST] Where can I view and download my annual fee receipt? [/INST] You can view and download your annual fee receipt in the Fees Receipt section: https://learner.vierp.in/LearnerReceiptReport.Steps to navigate: Login -> Home -> Accounts -> Fees Receipt </s>
-<s>[INST] Are there any important activities scheduled for [specific date]? [/INST] To check important activities for a specific date, go to the academic calendar and choose the relevant date. It will display any scheduled events, exams, or holidays for that day. </s>
-<s>[INST] What assignments do I have in [subject]? [/INST] The list of assignments for a particular subject is available in the 'Assignments' section. Select the subject to view the details of the assignments, including due dates and instructions. </s>
-<s>[INST] How can I pay fees for different options like certificates, fines, or other charges? [/INST] You can pay fees for various options in the Pay Fees section: https://learner.vierp.in/AllPayFees.Steps to navigate: Login -> Home -> Accounts -> Pay Fees </s>
-<s>[INST] Can you show me the syllabus for [course name]? [/INST] The syllabus for a course can be accessed from the 'Syllabus' section. Select the course name to get the detailed syllabus, including units and topics covered throughout the semester. </s>
-<s>[INST] How many lectures did I attend this week? [/INST] You can find the details of the lectures you attended for the week by selecting the current week from the 'Attendance' section. It will display the number of lectures attended and missed for each subject. </s>
-<s>[INST] Where can I request a Document Retention Certificate? [/INST] You can request a Document Retention Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Document Retention Certificate </s>
-<s>[INST] Where can I request a Date of Birth & Place of Birth Certificate? [/INST] You can request a Date of Birth & Place of Birth Certificate in the Certificate section: https://learner.vierp.in/document-request.Steps to navigate: Login -> Home -> Certificate -> Date of Birth & Place of Birth Certificate </s>
-<s>[INST] Where can I view my Backlog/Summer Grade Card or Marksheet? [/INST] You can view your Backlog/Summer Grade Card or Marksheet in the Backlog/Summer Grade Card section: https://learner.vierp.in/grade-card-backlog.Steps to navigate: Login -> Home -> Examination -> Backlog/Summer Grade Card/Marksheet </s>
-<s>[INST] Where can I view the documents I uploaded during admission? [/INST] You can view the documents uploaded at the time of admission in the Document Checklist section: https://learner.vierp.in/documentreceipt.Steps to navigate: Login -> Home -> Admission -> Document Checklist </s>
-<s>[INST] Can you show me the academic calendar for this year? [/INST] The academic calendar is available in the student portal. Select the current academic year and semester, and it will display the entire academic schedule, including holidays, events, and examination dates. If it's unavailable, meet XXXX mam/sir at desk no. XX. </s>
-<s>[INST] Where can I check the details of the social welfare scheme I applied for? [/INST] You can check the details of your applied social welfare scheme in the Social Welfare Details section: https://learner.vierp.in/social-welfare-details.Steps to navigate: Login -> Home -> Accounts -> Social Welfare Details </s>
-<s>[INST] How can faculty monitor my project progress? [/INST] Faculty can monitor your project progress in the Project Monitoring Tab: https://learner.vierp.in/project-monitoring. They can assign tasks and track progress while students submit tasks through the same tab.Steps to navigate: Login -> Home -> Project Monitoring </s>
-<s>[INST] What holidays are there in [month]? [/INST] To view the holidays for a particular month, go to the academic calendar section. It will show you all the scheduled holidays for that month, including public holidays, institute-specific holidays, and breaks. If you still can't find it, please visit XXXX mam/sir at desk no. XX in the student department. </s>
-<s>[INST] How can I register for elective subjects? [/INST] You can register for elective subjects through the Student Joining/Registration section: https://learner.vierp.in/student-joining. Electives are assigned on a first-come, first-serve basis. Once registered, you can freeze the subject for the academic semester.Steps to navigate: Login -> Home -> Subject Registration -> Student Joining/Registration </s>
+Question: How can I check my semester-wise subject attendance?
+Answer: You can check your semester-wise subject attendance in the Attendance section: https://learner.vierp.in/attendance. Steps to navigate: Login -> Home -> Academics -> Attendance
+
+Question: How can I update my subject registration?
+Answer: You get the option only during the beginning of semester where you must tick the subject included in the course and choose your elective. Once the list is freeze it cannot be changed.
+
+Question: Which lectures was I absent for last month?
+Answer: You can view your absences for the previous month by selecting the 'Attendance History' section. It will list the dates and subjects where you were marked absent.
+
+Question: How can I provide feedback for the courses I have studied?
+Answer: You can provide course feedback in the Course Feedback section: https://learner.vierp.in/student-feedback. Steps to navigate: Login -> Home -> Feedback -> Course Feedback
+
+Question: How can I initiate the process to cancel my admission?
+Answer: You can initiate the cancellation of your admission in the Cancel Admission section: https://learner.vierp.in/admissioncancel. Steps to navigate: Login -> Home -> Admission -> Cancel Admission
+
+Question: Where can I give feedback about the institute and facilities?
+Answer: You can provide institute-related feedback in the Institute Feedback section: https://learner.vierp.in/institute-feedback. Steps to navigate: Login -> Home -> Feedback -> Institute Feedback
+
+Question: How can I apply for a re-examination?
+Answer: You can apply for re-examination in the Apply for Re-examination section: https://learner.vierp.in/reexam-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-examination
+
+Question: How do I pay late fees for subject registration?
+Answer: You can pay late registration fees in the Pay Late Fees section: https://learner.vierp.in/late-registration-fees. Steps to navigate: Login -> Home -> Subject Registration -> Pay Late Fees
+
+Question: Have I submitted my assignment for [subject]?
+Answer: In the 'Assignments' section, select the subject to check whether the assignment has been submitted. If submitted, the status will show as 'Submitted,' and if pending, it will be marked as 'Pending.'
+
+Question: Where can I find the syllabus and course plan for my subjects?
+Answer: You can find the syllabus and course plan in the Lesson Plan section: https://learner.vierp.in/lessonplan. Steps to navigate: Login -> Home -> Academics -> Lesson Plan
+
+Question: How is my attendance in [specific subject]?
+Answer: To view your attendance for a specific subject, go to the 'Attendance' section, select the subject name, and it will show your attendance details including percentage and number of lectures attended/missed.
+
+Question: Are there specific guidelines for writing course feedback?
+Answer: No, it is a simple multiple-choice format where you select an answer based on your experience. The options typically range in order from 'Very Bad,' 'Bad,' 'Okay,' 'Good,' to 'Very Good.'
+
+Question: What is my attendance for [subject]?
+Answer: You can view your attendance for a specific subject by selecting the subject name in the 'Attendance' section of the student portal. It will show your attendance percentage and the number of lectures attended.
+
+Question: Where can I apply for re-registration?
+Answer: You can apply for re-registration in the Apply for Re-registration section: https://learner.vierp.in/re-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-registration
+
+Question: How can I check my division's timetable?
+Answer: You can view your division's timetable in the My Division Time Table section: https://learner.vierp.in/division-timetable. Steps to navigate: Login -> Home -> My Timetable -> My Division Time Table
+
+Question: How can I request a Regular Bonafide Certificate?
+Answer: You can request a Regular Bonafide Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Regular Bonafide Certificate
+
+Question: How do I apply for re-evaluation of my exam?
+Answer: You can apply for re-evaluation in the Apply for Re-evaluation section: https://learner.vierp.in/reval-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-evaluation
+
+Question: How can I request a Certificate of Course Duration?
+Answer: You can request a Certificate of Course Duration in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Certificate of Course Duration
+
+Question: How can I pay fees to participate in an event?
+Answer: You can pay the event fees by selecting the event in the Pay Event Fees section: https://learner.vierp.in/choose_event_insider. Steps to navigate: Login ->
+
+Question: Can you show me all the pending assignments?
+Answer: The 'Assignments' section will display all your pending assignments across subjects. This includes assignments that have not yet been submitted along with their deadlines.
+
+Question: Can I request a certificate if I graduated several years ago?
+Answer: Yes, you can request certificates even after graduation; check the requirements in the Certificate tab.
+
+Question: How do I update my personal information in the portal?
+Answer: Personal information can typically be updated in the Profile Settings section of your account.
+
+Question: Can I register for more than one elective subject?
+Answer: Yes, but it depends on availability and your academic schedule; be sure to check the first-come, first-served policy.
+
+Question: How many lectures have I missed in [subject]?
+Answer: Go to the 'Attendance' section and select the subject. It will display the total number of missed lectures, along with your overall attendance in that subject.
+
+Question: What is the Document Checklist?
+Answer: The Document Checklist lists all the documents you need to upload at the time of admission.
+
+Question: Can I track the status of my certificate request?
+Answer: Yes, the status of your certificate request can typically be tracked in the Certificate tab.
+
+Question: How do I know if I am meeting my program's academic requirements?
+Answer: You can track your progress towards academic requirements through your academic advisor or the Academics tab.
+
+Question: How can I access my fees receipt?
+Answer: You can access your fees receipt in the Fees Receipt sub-tab of the Accounts tab.
+
+Question: Can I view Lesson Plans for previous semesters?
+Answer: No, Lesson Plans for previous semesters are not typically available.
+
+Question: Is there a way to contact faculty members directly through the portal?
+Answer: Yes, faculty contact information is usually available in the Academics tab.
+
+Question: What happens if an event is canceled?
+Answer: If an event is canceled, registered participants will usually be notified, and any fees paid may be refunded.
+
+Question: What is the process of admission cancellation?
+Answer: You must fill out an online form, and once submitted, it will be reviewed by the administration.
+
+Question: What if a subject I want to register for is full?
+Answer: If a subject is full, you may be placed on a waitlist; check with the academic office for options.
+
+Question: Is there a fee for using online payment services?
+Answer: Some online payment methods may charge a convenience fee; check the payment options for details.
+
+Question: Can I modify a certificate request after submitting it?
+Answer: No, once a request is submitted, you cannot modify it. You may need to cancel and submit a new request.
+
+Question: How are quiz results communicated?
+Answer: Quiz results are typically communicated via the Quiz tab or through email notifications.
+
+Question: What documents are required to cancel my admission?
+Answer: You will need to upload your admission letter, fee receipts, and any other required documents.
+
+Question: How can I apply for a re-examination?
+Answer: You can apply for re-examination in the Apply for Re-examination section: https://learner.vierp.in/reexam-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-examination
+
+Question: Can I pay fees in installments?
+Answer: It depends on the fee type; some fees allow installment payments.
+
+Question: When is my next assignment due for [subject]?
+Answer: You can find the due date for your next assignment in the 'Assignments' section. Select the subject to view the details of all upcoming assignments and their submission deadlines.
+
+Question: Can I submit a late assignment?
+Answer: Late submission policies vary; contact your instructor for guidance on late submissions.
+
+Question: Can I get a refund if I cancel my event participation after paying?
+Answer: Refund policies vary. You should check with the organizing institute for their specific refund policies after cancelling your participation.
+
+Question: Where can I request a Date of Birth & Place of Birth Certificate?
+Answer: You can request a Date of Birth & Place of Birth Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Date of Birth & Place of Birth Certificate
+
+Question: How can I get my grades reviewed?
+Answer: To get your grades reviewed, contact your instructor and follow the grade appeal process outlined by the department.
+
+Question: Is there a payment option for instalment plans regarding late fees?
+Answer: No there are no such instalment plans.
+
+Question: How do I find sponsors for college events?
+Answer: To find sponsors for events, collaborate with the college's event management team or approach local businesses.
+
+Question: What should I do if my cheque bounces?
+Answer: If your cheque bounces, contact the accounts office to resolve the issue and inquire about any penalties.
+
+Question: Are there options to view past timetables?
+Answer: Access to past timetables depends on your institution’s system; check for archive options.
+
+Question: Are there any specific formats for certificates?
+Answer: Specific formats may vary by certificate type; check the guidelines in the Certificate tab.
+
+Question: How can I access academic resources like e-books?
+Answer: Academic resources, including e-books, can usually be accessed through the library portal linked in the Academics tab.
+
+Question: Is there a fee for obtaining a duplicate hall ticket?
+Answer: Yes, there may be a nominal fee for issuing a duplicate hall ticket; check the relevant sub-tab for details.
+
+Question: What topics are covered in [subject] this week?
+Answer: The weekly schedule for the subject, including topics, will be displayed in the 'Lesson Plan' section. You can check what is being taught in the current week.
+
+Question: How do I apply for a fee refund?
+Answer: Fee refunds are generally handled by the accounts office; you can apply by contacting them directly.
+
+Question: Which assignments are still pending for me?
+Answer: You can view all pending assignments in the 'Assignments' section of the student portal. This includes both upcoming and past-due assignments for all subjects.
+
+Question: What information is needed to pay event fees?
+Answer: You will need to select the Organizing Institute and the Event from a list, then proceed with the payment.
+
+Question: Can I change my course after admission?
+Answer: Changing your course after admission is possible, but it depends on the college's policies; consult your advisor.
+
+Question: What areas can I give feedback on in the Institute Feedback tab?
+Answer: You can provide feedback on library services, facilities, administration, and overall student experience.
+
+Question: What does "freeze for an academic semester" mean?
+Answer: Freezing a subject means you have secured your registration for that academic semester and it will not change.
+
+Question: How do I pay late fees for subject registration?
+Answer: You can pay late registration fees in the Pay Late Fees section: https://learner.vierp.in/late-registration-fees. Steps to navigate: Login -> Home -> Subject Registration -> Pay Late Fees
+
+Question: Can I request multiple certificates at once?
+Answer: Yes, you can request multiple certificates in a single application, depending on the process outlined in the Certificate tab.
+
+Question: How can I find information about scholarship opportunities?
+Answer: Scholarship opportunities are typically listed in the Admission tab or the financial aid section of the college website.
+
+Question: How do I freeze my subject selection?
+Answer: Freezing your subject selection is typically done within the Subject Registration tab after making your choices.
+
+Question: Can I set reminders for my fee due dates?
+Answer: Yes, you can set reminders for fee due dates in the portal.
+
+Question: How do I know if my assignment submission was successful?
+Answer: You will receive a confirmation notification after successfully submitting an assignment.
+
+Question: What can I provide feedback on in the Feedback tab?
+Answer: You can provide feedback on specific courses and the overall institute in the Feedback tab.
+
+Question: How do I apply for financial aid?
+Answer: To apply for financial aid, complete the required forms available in the Accounts tab or on the college website.
+
+Question: Can I remain anonymous while giving feedback?
+Answer: Yes, most feedback systems allow you to remain anonymous to encourage honest responses.
+
+Question: Can I view assignments from previous semesters?
+Answer: Yes, assignments from previous semesters may be available in the archive section.
+
+Question: What resources are available for project assistance?
+Answer: Resources are typically listed within the Project Monitoring tab or provided by your faculty.
+
+Question: Can I track my project's overall progress?
+Answer: Yes, you can track the overall progress of your project within the Project Monitoring tab.
+
+Question: How do I know if my admission cancellation request has been accepted?
+Answer: You will receive a notification on your portal and via email once the cancellation is processed.
+
+Question: What should I do if I find discrepancies in my grade card?
+Answer: Report any discrepancies to the examination office immediately with supporting documentation.
+
+Question: What should I do if I'm struggling in a class?
+Answer: If you're struggling, consider reaching out to your instructor or utilizing tutoring services available through the Academics tab.
+
+Question: How is attendance calculated?
+Answer: Attendance is calculated as a percentage based on the total number of classes attended versus the total number of classes held.
+
+Question: Are quizzes graded on a curve?
+Answer: Grading policies vary; consult your instructor to find out if a curve is applied.
+
+Question: Can you show me the academic calendar for this year?
+Answer: The academic calendar is available in the student portal. Select the current academic year and semester, and it will display the entire academic schedule, including holidays, events, and examination dates. If it's unavailable, meet XXXX mam/sir at desk no. XX.
+
+Question: How can I get a Character Certificate?
+Answer: You can request a Character Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Character Certificate
+
+Question: How often are fee receipts updated?
+Answer: Fee receipts are updated immediately after a successful transaction.
+
+Question: Where can I check the details of the social welfare scheme I applied for?
+Answer: You can check the details of your applied social welfare scheme in the Social Welfare Details section: https://learner.vierp.in/social-welfare-details. Steps to navigate: Login -> Home -> Accounts -> Social Welfare Details
+
+Question: How do I provide feedback on campus safety or facilities?
+Answer: You can see similar questions in Institute feedback where you can rate your experience regarding a particular facility.
+
+Question: Are there any upcoming academic workshops listed?
+Answer: Upcoming workshops will be announced in the Academics tab and on the portal homepage.
+
+Question: How can I access the academic calendar from my mobile device?
+Answer: You can access the academic calendar through the mobile version of the college portal or the official app.
+
+Question: How do I submit tasks for my project?
+Answer: Tasks can be submitted directly through the Project Monitoring tab as directed by your faculty.
+
+Question: What payment methods are accepted for event fees?
+Answer: The payment methods vary based on the system used by the organizing institute. Common methods include credit/debit cards, net banking, or UPI.
+
+Question: Are quiz scores included in my final grade?
+Answer: Yes, quiz scores are typically included in your overall course grade.
+
+Question: Can I edit my feedback after submission?
+Answer: Editing feedback after submission is generally not allowed; double-check your responses before submitting.
+
+Question: What happens if I don’t meet the eligibility criteria?
+Answer: If you don’t meet the criteria, your application may be rejected. Contact admissions for further clarification.
+
+Question: How can I prepare for quizzes effectively?
+Answer: Reviewing lecture notes, using study guides, and forming study groups can help you prepare effectively.
+
+Question: What is the process to request a Character Certificate?
+Answer: Similar to other certificates, go to the "Certificate" tab, select "Character Certificate," and submit your request.
+
+Question: How do I confirm successful registration for all my subjects?
+Answer: Once you freeze the subject details, you have successfully registered.
+
+Question: Are group assignments allowed?
+Answer: Yes, group assignments are allowed; check with your instructor for group policies.
+
+Question: How do I log out of the portal?
+Answer: You can log out by clicking on the "Logout" button located in the upper-right corner of the portal.
+
+Question: Can I submit assignments online?
+Answer: Yes, most assignments can be submitted directly through the portal.
+
+Question: How can I ensure my feedback is constructive?
+Answer: Focus on specific observations, suggest improvements, and maintain a respectful tone in your feedback.
+
+Question: How do I pay the annual fee through this tab?
+Answer: Navigate to the "Pay Annual Fee" sub-tab and follow the payment instructions provided.
+
+Question: Can I download the Lesson Plan?
+Answer: Yes, there is an option to download the Lesson Plan.
+
+Question: Can I request certificates for past semesters?
+Answer: Yes, certificates for previous semesters can be requested through the Certificate tab.
+
+Question: How do I get a receipt for the late fees paid?
+Answer: Once you pay the fees, the receipt will be generated automatically.
+
+Question: Is there a deadline for withdrawing from a course?
+Answer: Yes, deadlines for withdrawing from courses are usually listed in the academic calendar.
+
+Question: Are there any fees associated with attending events?
+Answer: Some events may have fees; check the Event tab for specific details.
+
+Question: How can I inquire about the status of my financial aid application?
+Answer: You can check the status of your financial aid application by contacting the financial aid office or through the portal.
+
+Question: What if I can't access the portal to submit my assignment?
+Answer: Contact technical support or your instructor to report any issues with portal access.
+
+Question: How do I obtain a duplicate Degree Certificate?
+Answer: To obtain a duplicate Degree Certificate, submit a request through the Certificate tab, including necessary documentation.
+
+Question: Are there any restrictions on the number of subjects I can register for?
+Answer: Yes, there are often restrictions based on your program’s requirements; check with the academic office.
+
+Question: Is there a specific time when feedback is collected?
+Answer: Feedback is typically collected at the end of each semester or after major assessments.
+
+Question: Can I drop a subject after registration?
+Answer: Dropping a subject may be allowed but typically requires formal approval; check your institution's policies.
+
+Question: Are there deadlines for submitting project tasks?
+Answer: Yes, deadlines are usually set by the faculty and are communicated through the Project Monitoring tab.
+
+Question: Can I provide feedback on my timetable?
+Answer: Feedback about timetable issues can usually be submitted to the academic office or administration.
+
+Question: Where can I view my event fee receipt?
+Answer: You can view your event fee receipt in the Event Fee Receipt section: https://learner.vierp.in/event_fee_receipt_insider. Steps to navigate: Login -> Home -> Event -> Event Fee Receipt
+
+Question: How do I submit a project report?
+Answer: Submit your project report through the designated submission section in the Project Monitoring tab.
+
+Question: Where can I find the fee structure for my program?
+Answer: The fee structure for your program is available in the Fees Receipt sub-tab or on the college website.
+
+Question: How do I know if my attendance is satisfactory?
+Answer: Your attendance percentage is displayed in the Attendance sub-tab, and you can check if it meets college requirements.
+
+Question: Are there scholarships available for students?
+Answer: Yes, information about scholarships can be found in the Accounts tab or through the financial aid office.
+
+Question: How do I report an error in my timetable?
+Answer: Report any errors to your faculty advisor or the academic office for correction.
+
+Question: What is the deadline for admission applications?
+Answer: Admission deadlines are usually listed on the college's website and in the Admission tab.
+
+Question: Can I get a breakdown of my late fee charges?
+Answer: The breakdown of late fees is (200/- *no. of days until fees paid).
+
+Question: Can I download my certificate from the portal?
+Answer: Yes, once issued, your certificate will be available for download.
+
+Question: Is there a mobile app for accessing my timetable?
+Answer: Many institutions offer mobile apps for easy access; check if your institution provides one.
+
+Question: How do I request a payment receipt for offline transactions?
+Answer: Contact the accounts office to request a receipt for any offline payments made.
+
+Question: How to Upload SRS Document?
+Answer: Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under SRS & Upload the file from File Manager.
+
+Question: What is the processing time for certificate requests?
+Answer: Processing times vary; refer to the Certificate tab for estimated timelines.
+
+Question: Can I submit additional documents to support my eligibility?
+Answer: Yes, if needed, additional documents can be uploaded to support your eligibility.
+
+Question: How can I stay updated on college events and announcements?
+Answer: Stay updated by checking the Event tab and the college's announcements section regularly.
+
+Question: Can I see the weekly breakdown of topics in the Lesson Plan?
+Answer: Yes, the Lesson Plan includes a weekly breakdown of topics.
+
+Question: How are exam schedules communicated to students?
+Answer: Exam schedules are usually communicated via the Examination tab, email, and institutional notices.
+
+Question: Can I participate in events as a team?
+Answer: Yes, many events allow team participation; check the event guidelines for more information.
+
+Question: Where can I view my grade card or marksheet?
+Answer: You can view your grade card or marksheet in the "Grade Card/Marksheet" sub-tab.
+
+Question: What should I do if I encounter technical issues while submitting assignments?
+Answer: If you encounter technical issues, contact technical support or your instructor for assistance.
+
+Question: How can I access project-related resources?
+Answer: Resources are often linked within the Project Monitoring tab or provided by your faculty.
+
+Question: How can I view my group members' contributions?
+Answer: Contributions can often be tracked through the project monitoring tool, where tasks are assigned.
+
+Question: Is the Academic Calendar the same for all courses?
+Answer: No, it may vary depending on your course or department.
+
+Question: How are assignments graded?
+Answer: Each assignment is graded based on the instructor’s evaluation criteria, which can vary by course.
+
+Question: How do I apply for a special exam due to medical reasons?
+Answer: Contact the examination office with your medical documentation to request a special exam.
+
+Question: Where can I find the dates of midterm exams?
+Answer: Midterm exam dates are included in the Academic Calendar.
+
+Question: What should I do if the Lesson Plan does not match what is being taught?
+Answer: Contact your course instructor to clarify the discrepancy.
+
+Question: Are there any discounts available for early fee payments?
+Answer: Check with the accounts office for any discounts available for early fee payments.
+
+Question: How do I appeal a grade?
+Answer: To appeal a grade, follow the procedure outlined by your department, usually found in the Academics tab.
+
+Question: How do I check for any holds on my account?
+Answer: Holds on your account can usually be viewed in the Accounts tab.
+
+Question: Can I access the portal from my mobile device?
+Answer: Yes, the portal is usually mobile-friendly and can be accessed from smartphones and tablets.
+
+Question: How do I find out about academic support workshops?
+Answer: Information about academic support workshops is typically found in the Academics tab or on the student services page.
+
+Question: What is the purpose of the Project Monitoring tab?
+Answer: The Project Monitoring tab allows faculty to create project groups, assign tasks, and track student progress on projects.
+
+Question: How can I report a problem with a course or instructor?
+Answer: Problems with courses or instructors can usually be reported through the student feedback form in the Academics tab.
+
+Question: How can I check if my backlog application was successful?
+Answer: You can check the status of your backlog application in the Examination tab under the "Backlog/Summer Grade Card/Marksheet" sub-tab.
+
+Question: Are there any fees associated with participating in college events?
+Answer: Yes, some events may have participation fees, which can be paid through the Pay Event Fees sub-tab.
+
+Question: How do I apply for re-evaluation of my exam?
+Answer: You can apply for re-evaluation by selecting the "Apply for Re-evaluation" sub-tab and completing the application process.
+
+Question: How long does it take to get results for a re-evaluation?
+Answer: Results for re-evaluation are usually released within a few weeks; check the Examination tab for specific timelines.
+
+Question: What happens if I do not submit course feedback by the deadline?
+Answer: You will not be able to submit the feedback once you cross the deadline and it is compulsory so it is recommended to not miss it.
+
+Question: How do I find peer review opportunities for my assignments?
+Answer: Peer review opportunities may be available through your course or academic support services; check with your instructor.
+
+Question: What is the purpose of the Document Verification section?
+Answer: It helps you track and verify all documents submitted during admission, such as your mark sheets and certificates.
+
+Question: Can I view a list of subjects offered for the upcoming semester?
+Answer: Yes, a list of subjects offered for the upcoming semester is usually available in the Subject Registration tab.
+
+Question: Can I request a certificate if I graduated several years ago?
+Answer: Yes, you can request certificates even after graduation; check the requirements in the Certificate tab.
+
+Question: Can I register for more than one elective subject?
+Answer: Yes, but it depends on availability and your academic schedule; be sure to check the first-come, first-served policy.
+
+Question: How do I know if I am meeting my program's academic requirements?
+Answer: You can track your progress towards academic requirements through your academic advisor or the Academics tab.
+
+Question: How can I access academic resources like e-books?
+Answer: Academic resources, including e-books, can usually be accessed through the library portal linked in the Academics tab.
+
+Question: Is there a fee for obtaining a duplicate hall ticket?
+Answer: Yes, there may be a nominal fee for issuing a duplicate hall ticket; check the relevant sub-tab for details.
+
+Question: What areas can I give feedback on in the Institute Feedback tab?
+Answer: You can provide feedback on library services, facilities, administration, and overall student experience.
+
+Question: Can I request multiple certificates at once?
+Answer: Yes, you can request multiple certificates in a single application, depending on the process outlined in the Certificate tab.
+
+Question: How can I find information about scholarship opportunities?
+Answer: Scholarship opportunities are typically listed in the Admission tab or the financial aid section of the college website.
+
+Question: How do I know if my admission cancellation request has been accepted?
+Answer: You will receive a notification on your portal and via email once the cancellation is processed.
+
+Question: What should I do if I'm struggling in a class?
+Answer: If you're struggling, consider reaching out to your instructor or utilizing tutoring services available through the Academics tab.
+
+Question: How do I provide feedback on campus safety or facilities?
+Answer: You can see similar questions in Institute feedback where you can rate your experience regarding a particular facility.
+
+Question: How can I access the academic calendar from my mobile device?
+Answer: You can access the academic calendar through the mobile version of the college portal or the official app.
+
+Question: What payment methods are accepted for event fees?
+Answer: The payment methods vary based on the system used by the organizing institute. Common methods include credit/debit cards, net banking, or UPI.
+
+Question: What happens if I don’t meet the eligibility criteria?
+Answer: If you don’t meet the criteria, your application may be rejected. Contact admissions for further clarification.
+
+Question: What is the process to request a Character Certificate?
+Answer: Similar to other certificates, go to the "Certificate" tab, select "Character Certificate," and submit your request.
+
+Question: How can I inquire about the status of my financial aid application?
+Answer: You can check the status of your financial aid application by contacting the financial aid office or through the portal.
+
+Question: How do I obtain a duplicate Degree Certificate?
+Answer: To obtain a duplicate Degree Certificate, submit a request through the Certificate tab, including necessary documentation.
+
+Question: Are there any restrictions on the number of subjects I can register for?
+Answer: Yes, there are often restrictions based on your program’s requirements; check with the academic office.
+
+Question: How do I know if my attendance is satisfactory?
+Answer: Your attendance percentage is displayed in the Attendance sub-tab, and you can check if it meets college requirements.
+
+Question: What should I do if I encounter technical issues while submitting assignments?
+Answer: If you encounter technical issues, contact technical support or your instructor for assistance.
+
+Question: How do I register for a subject?
+Answer: You can register for a subject by selecting the desired elective and completing the registration process in the Subject Registration tab.
+
+Question: What details are included in the Event Report?
+Answer: The Event Report includes information about events you participated in, such as dates, results, and your role in the event.
+
+Question: What are the late fee policies for subject registration?
+Answer: The late fee policy is that if the student does not pay the fees before the due date, he must pay a penalty of 200/- per day until paid.
+
+Question: What information can I find in the My Timetable section?
+Answer: In the My Timetable section, you can view your division timetable and your personal lecture, lab, and tutorial schedules.
+
+Question: What documents are required for the Eligibility Form?
+Answer: You will need to provide educational certificates, identification documents, and any other required documents.
+
+Question: How can I communicate with my project group?
+Answer: Communication methods may include group chats, emails, or the project monitoring tool, depending on the faculty’s setup.
+
+Question: What happens if some of my documents are marked as pending?
+Answer: You will need to submit the pending documents in person or upload them if an online submission option is available.
+
+Question: Are there any study groups available for my courses?
+Answer: Study groups may be organized by students or offered through academic support services; check the Academics tab for details.
+
+Question: What is the purpose of the Institute Feedback sub-tab?
+Answer: The Institute Feedback sub-tab allows you to provide feedback on facilities like the library and overall institute services.
+
+Question: How do I verify if my documents are pending or submitted?
+Answer: Navigate to Home > Admission > Document Verification to view the status of each document (Original, Attested, Pending).
+
+Question: How can I access my timetable from my mobile device?
+Answer: If the portal has a mobile-friendly version or app, you can access your timetable there; otherwise, use a web browser.
+
+Question: What happens if I forget to register for a subject?
+Answer: If you miss the registration period, you may need to wait for the next semester or apply for a late registration.
+
+Question: What options are available under the admission tab?
+Answer: The Admission tab includes the following sub-tabs: Cancel Admission, Document Verification, and Eligibility Form.
+
+Question: Are there any prerequisites for registering for elective subjects?
+Answer: Yes, some elective subjects may have prerequisites; check the course requirements in the Subject Registration tab.
+
+Question: Are there any deadlines I should be aware of in the Academics Calendar?
+Answer: Yes, the Academics Calendar outlines all important deadlines, including exam dates and assignment submissions.
+
+Question: How can I access my grade card after results are released?
+Answer: Your grade card will be available for download in the "Grade Card/Marksheet" sub-tab of the Examination tab.
+
+Question: Can I give feedback on the administrative staff?
+Answer: Yes, you can see similar questions in Institute feedback where you can rate your experience regarding an administrative staff.
+
+Question: Is there a specific format for submitting course feedback?
+Answer: Generally, there is no strict format; just provide your thoughts in the designated text box in the Course Feedback sub-tab.
+
+Question: What is the deadline for subject registration?
+Answer: The deadline for subject registration is announced at the beginning of each semester; check the tab for specific dates.
+
+Question: Can I see a list of events before paying the fees?
+Answer: Yes, the Pay Event Fees section will display a list of events organized by different institutes. You can select the event from the list.
+Question: How can I check the status of my admission application?
+Answer: You can check your admission application status in the Admission tab or by contacting the admission office.
+
+Question: Where can I find the event participation history?
+Answer: You can view your participation history in the Event Report section, accessible via Home > Event > Event Report.
+
+Question: What documents do I need to provide for a backlog application?
+Answer: Typically, you will need your identification and any relevant academic records; check the guidelines for specifics.
+
+Question: What do I do if I cannot attend an event I registered for?
+Answer: If you cannot attend, notify the event organizers in advance, if possible, to inform them of your absence.
+
+Question: Can I request a certificate if I am still enrolled?
+Answer: Yes, you can request certain certificates even if you are still enrolled; check the requirements in the Certificate tab.
+
+Question: Can I receive updates on changes made based on feedback?
+Answer: Institutions may provide updates via email or announcements; check the institute's communication channels.
+
+Question: Can I request a certificate for participation in extracurricular activities?
+Answer: Yes, certificates for extracurricular activities can usually be requested through the appropriate department.
+
+Question: What is the procedure for submitting the eligibility form?
+Answer: The eligibility form can be submitted online through the Admission tab; ensure all required documents are attached.
+
+Question: What is the difference between re-registration and re-evaluation?
+Answer: Re-registration is for enrolling in a course again, while re-evaluation is for requesting a review of your grades.
+
+Question: Can I collect a physical copy of my certificate from the office?
+Answer: Yes, you can collect a physical copy after the online version is available, if your institution offers this option.
+
+Question: How are marks distributed in the grade card?
+Answer: Marks are typically distributed based on assignments, quizzes, exams, and participation; refer to your course syllabus for specifics.
+
+Question: Are there student clubs and organizations I can join?
+Answer: Yes, information about student clubs and organizations can be found in the Student Life section of the portal.
+
+Question: What kind of feedback can I give on the library?
+Answer: You can provide feedback on resources, staff assistance, and overall environment in the Institute Feedback sub-tab.
+
+Question: How do I appeal a grade I believe is incorrect?
+Answer: To appeal a grade, follow the procedure outlined in the academic policies, usually involving communication with your instructor.
+
+Question: Can I suggest improvements in the Feedback tab?
+Answer: Yes, you can suggest improvements and comment on the availability of facilities in the Institute Feedback sub-tab.
+
+Question: Can I request a certificate for volunteering activities?
+Answer: Yes, certificates for volunteering activities can typically be requested through the Certificate tab, if offered by the college.
+
+Question: What should I do if I can't attend an event I registered for?
+Answer: If you can't attend, inform the event organizers as soon as possible, and check if refunds are available.
+
+Question: What happens if my attendance falls below the required minimum?
+Answer: You may not be allowed to sit for exams if your attendance is below the required minimum. Contact your department for details.
+
+Question: What should I do if I have not received my grade card?
+Answer: If you haven’t received your grade card, contact the examination office or check the "Grade Card/Marksheet" sub-tab for any updates.
+
+Question: How can I check if there are any changes to the academic calendar?
+Answer: Updates to the academic calendar will be reflected in the Academics Calendar sub-tab and announced via notifications.
+
+Question: How can I access my backlog/summer grade card or marksheet?
+Answer: The backlog/summer grade card or marksheet can be found under the "Backlog/Summer Grade Card/Marksheet" sub-tab.
+
+Question: What if I need to pay for multiple events?
+Answer: You can pay for each event individually in Home > Event > Pay Event Fees by selecting the event and completing the payment process.
+
+Question: How do I submit my final transcripts after admission?
+Answer: Final transcripts can be submitted to the admission office in person or via email, as instructed during admission.
+
+Question: Are there deadlines for requesting certain certificates?
+Answer: Yes, some certificates may have deadlines for requests; check the Certificate tab for specific information.
+
+Question: What if I have technical issues while submitting feedback?
+Answer: Contact the IT support team for assistance if you encounter technical problems while submitting feedback.
+
+Question: What steps should I take if I plan to transfer to another institution?
+Answer: To transfer, consult your academic advisor for the necessary steps and ensure your credits will transfer.
+
+Question: What functionalities does the Subject Registration tab offer?
+Answer: The Subject Registration tab allows students to register for subjects, pay late fees, and pay the annual fee.
+
+Question: What payment methods are accepted for fees?
+Answer: The college accepts various payment methods, including credit/debit cards, bank transfers, and online payment services.
+
+Question: How do I know if my event fee payment was successful?
+Answer: After payment, a confirmation will be displayed, and you can view your fee receipt in Home > Event > Event Fee Receipt.
+
+Question: What should I do if I encounter issues during registration?
+Answer: If you face any issues, contact the administration office or seek assistance in the Subject Registration tab.
+
+Question: Can I edit my Eligibility Form after submission?
+Answer: Typically, once the Eligibility Form is submitted, you cannot edit it. However, check with the admissions office if changes are needed.
+
+Question: What is the procedure if I fail my backlog exam?
+Answer: You will need to reapply for the backlog exam, following the process outlined in the "Apply for Backlog" sub-tab.
+
+Question: What types of events are typically held at the college?
+Answer: Events can include cultural programs, workshops, seminars, sports events, and more, as listed in the Event tab.
+
+Question: What should I do if I have an idea for a student initiative?
+Answer: You can propose your idea to the student council or relevant committees; check the Student Life section for more information.
+
+Question: How long does it take for feedback to be reviewed?
+Answer: Feedback is typically reviewed at the end of each semester, and changes may be implemented in subsequent terms.
+
+Question: Are there any orientation programs for new students?
+Answer: Yes, orientation programs for new students are usually held before the semester starts; details are available in the Admission tab.
+
+Question: What is the Eligibility Form and how can I fill it out?
+Answer: The Eligibility Form is used to confirm that you meet admission criteria. Access it via Home > Admission > Eligibility Form.
+
+Question: Is there a fee for applying for re-examination?
+Answer: Yes, there may be a fee associated with applying for re-examination, which will be detailed in the respective sub-tab.
+
+Question: What is the process for getting a Character Certificate?
+Answer: To get a Character Certificate, fill out the request form in the Certificate tab and submit any required documentation.
+
+Question: Are there any events specifically for new students?
+Answer: Yes, events for new students are often organized at the beginning of the semester; check the Event tab for details.
+
+Question: How do I change my bank details for e-mandate?
+Answer: To change your bank details for e-mandate, contact the accounts office or follow the procedures in the Accounts tab.
+
+Question: Can I view the progress of other groups?
+Answer: Access to other groups' progress is typically restricted to maintain confidentiality; you can only view your own group’s status.
+
+Question: When can I expect to receive my exam results?
+Answer: Exam results are typically released within a few weeks after the examination; check the Examination tab for updates.
+
+Question: What happens if I miss the deadline for subject registration?
+Answer: If you miss the registration deadline, you may have to pay a late fee, which can be processed in the Subject Registration tab.
+
+Question: What are the consequences of submitting negative feedback?
+Answer: There are no such consequences as your feedback is confidential but make sure that you give genuine feedback!
+
+Question: How can I provide feedback on an event I attended?
+Answer: Feedback can often be provided through a survey or form shared after the event; check the Event tab for options.
+
+Question: What are the consequences of not paying my fees on time?
+Answer: Consequences may include late fees, holds on your account, or restrictions on registration for future courses.
+
+Question: What are the admission requirements for international students?
+Answer: Admission requirements for international students are usually listed on the college's website or the Admission tab.
+
+Question: How can I contact the admission office for queries?
+Answer: Contact details for the admission office are typically available in the Admission tab or on the college website.
+
+Question: What options are available in the Examination tab?
+Answer: The Examination tab includes options for applying for backlogs, re-registration, re-evaluation, re-examination, and accessing grade cards and hall tickets.
+
+Question: How to Upload Project Report?
+Answer: Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under Project Monitor & Upload the file from File Manager.
+
+Question: Where can I download my Hall Ticket?
+Answer: You can download your Hall Ticket in the Hall Ticket section: https://learner.vierp.in/HallTicket. Steps to navigate: Login -> Home -> Examination -> Hall Ticket
+
+Question: Where can I view the semester schedule?
+Answer: You can view the whole semester schedule in the Academic Calendar: https://learner.vierp.in/academics_calendar. Steps to navigate: Login -> Home -> Academics -> Academic Calendar
+
+Question: Can you show me all the pending assignments?
+Answer: The 'Assignments' section will display all your pending assignments across subjects. This includes assignments that have not yet been submitted along with their deadlines.
+
+Question: How many lectures have I missed in [subject]?
+Answer: Go to the 'Attendance' section and select the subject. It will display the total number of missed lectures, along with your overall attendance in that subject.
+
+Question: When is my next assignment due for [subject]?
+Answer: You can find the due date for your next assignment in the 'Assignments' section. Select the subject to view the details of all upcoming assignments and their submission deadlines.
+
+Question: Can I get a refund if I cancel my event participation after paying?
+Answer: Refund policies vary. You should check with the organizing institute for their specific refund policies after cancelling your participation.
+
+Question: What topics are covered in [subject] this week?
+Answer: The weekly schedule for the subject, including topics, will be displayed in the 'Lesson Plan' section. You can check what is being taught in the current week.
+
+Question: Which assignments are still pending for me?
+Answer: You can view all pending assignments in the 'Assignments' section of the student portal. This includes both upcoming and past-due assignments for all subjects.
+
+Question: How can I get a Character Certificate?
+Answer: You can request a Character Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Character Certificate
+
+Question: Where can I view my event fee receipt?
+Answer: You can view your event fee receipt in the Event Fee Receipt section: https://learner.vierp.in/event_fee_receipt_insider. Steps to navigate: Login -> Home -> Event -> Event Fee Receipt
+
+Question: How to Upload SRS Document?
+Answer: Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under SRS & Upload the file from File Manager.
+
+Question: What topics are being taught next week in [subject]?
+Answer: The lesson plan for next week can be found in the 'Lesson Plan' section. Select the subject to get a detailed list of topics that will be covered.
+
+Question: How can I access the Eligibility Form for admission?
+Answer: You can access the Eligibility Form in the Eligibility Form section: https://learner.vierp.in/uploadsoftcopy. Steps to navigate: Login -> Home -> Admission -> Eligibility Form
+
+Question: What types of documents are required for admission verification?
+Answer: Required documents may include mark sheets, caste certificates, domicile certificates, and other relevant documents, listed in Document Verification.
+
+Question: Can I get my overall attendance percentage?
+Answer: Your overall attendance percentage is available in the 'Attendance' section of the student portal. It includes all subjects, with the number of lectures attended and missed for each.
+
+Question: What was my attendance on [specific date]?
+Answer: To view your attendance for a specific date, select the date in the 'Attendance' section. The system will show your presence or absence for each subject on that date.
+
+Question: When is the next holiday?
+Answer: The next holiday can be found in the academic calendar. After selecting the current month, it will show you the upcoming holidays and any institute-related events scheduled before the holiday.
+
+Question: How can I get detailed information about an event?
+Answer: You can view event-related information in the Event Report section: https://learner.vierp.in/view-event-fee-report. Steps to navigate: Login -> Home -> Event -> Event Report
+
+Question: How can I set up automatic fee payments?
+Answer: You can set up automatic fee payments in the E-mandate section: https://learner.vierp.in/Emandate. Steps to navigate: Login -> Home -> Accounts -> E-mandate
+
+Question: How do I give anonymous feedback on my courses?
+Answer: The feedback you give is confidential and you can do the same by following this: Go to Feedback->Click on Course Feedback and select the option “PROCEED”
+
+Question: How do I obtain a bonafide certificate for a passport application?
+Answer: You can request a bonafide certificate for passport purposes through the Certificate tab, specifying the purpose in your application.
+
+Question: What is the deadline for my assignment in [subject]?
+Answer: The deadline for an assignment can be found in the 'Assignments' section. Select the subject and it will display the assignment details, including the deadline.
+
+Question: Where can I see my personalized timetable?
+Answer: You can view your personalized timetable in the My Time Table section: https://learner.vierp.in/mytimetable. Steps to navigate: Login -> Home -> My Timetable -> My Time Table
+
+Question: How to Upload Synopsis?
+Answer: Go to Project Monitoring & Click on the Specific Project & then click on Documentation button & Click the Up Arrow Button under Synopsis & Upload the file from File Manager.
+
+Question: How can I view the assignments allocated to me?
+Answer: You can view all allocated assignments semester-wise and subject-wise in the Assignment section: https://learner.vierp.in/ASPORTAL. Steps to navigate: Login -> Home -> Assignment
+
+Question: How can I check my semester-wise subject attendance?
+Answer: You can check your semester-wise subject attendance in the Attendance section: https://learner.vierp.in/attendance. Steps to navigate: Login -> Home -> Academics -> Attendance
+
+Question: How can I update my subject registration?
+Answer: You get the option only during the beginning of semester where you must tick the subject included in the course and choose your elective. Once the list is freeze it cannot be changed.
+
+Question: Which lectures was I absent for last month?
+Answer: You can view your absences for the previous month by selecting the 'Attendance History' section. It will list the dates and subjects where you were marked absent.
+
+Question: How can I provide feedback for the courses I have studied?
+Answer: You can provide course feedback in the Course Feedback section: https://learner.vierp.in/student-feedback. Steps to navigate: Login -> Home -> Feedback -> Course Feedback
+
+Question: How can I initiate the process to cancel my admission?
+Answer: You can initiate the cancellation of your admission in the Cancel Admission section: https://learner.vierp.in/admissioncancel. Steps to navigate: Login -> Home -> Admission -> Cancel Admission
+
+Question: Where can I give feedback about the institute and facilities?
+Answer: You can provide institute-related feedback in the Institute Feedback section: https://learner.vierp.in/institute-feedback. Steps to navigate: Login -> Home -> Feedback -> Institute Feedback
+
+Question: How can I apply for a re-examination?
+Answer: You can apply for re-examination in the Apply for Re-examination section: https://learner.vierp.in/reexam-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-examination
+
+Question: How do I pay late fees for subject registration?
+Answer: You can pay late registration fees in the Pay Late Fees section: https://learner.vierp.in/late-registration-fees. Steps to navigate: Login -> Home -> Subject Registration -> Pay Late Fees
+
+Question: Have I submitted my assignment for [subject]?
+Answer: In the 'Assignments' section, select the subject to check whether the assignment has been submitted. If submitted, the status will show as 'Submitted,' and if pending, it will be marked as 'Pending.'
+
+Question: Where can I find the syllabus and course plan for my subjects?
+Answer: You can find the syllabus and course plan in the Lesson Plan section: https://learner.vierp.in/lessonplan. Steps to navigate: Login -> Home -> Academics -> Lesson Plan
+
+Question: How is my attendance in [specific subject]?
+Answer: To view your attendance for a specific subject, go to the 'Attendance' section, select the subject name, and it will show your attendance details including percentage and number of lectures attended/missed.
+
+Question: Are there specific guidelines for writing course feedback?
+Answer: No, it is a simple multiple-choice format where you select an answer based on your experience. The options typically range in order from 'Very Bad,' 'Bad,' 'Okay,' 'Good,' to 'Very Good.'
+
+Question: What is my attendance for [subject]?
+Answer: You can view your attendance for a specific subject by selecting the subject name in the 'Attendance' section of the student portal. It will show your attendance percentage and the number of lectures attended.
+
+Question: Where can I apply for re-registration?
+Answer: You can apply for re-registration in the Apply for Re-registration section: https://learner.vierp.in/re-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-registration
+
+Question: How can I check my division's timetable?
+Answer: You can view your division's timetable in the My Division Time Table section: https://learner.vierp.in/division-timetable. Steps to navigate: Login -> Home -> My Timetable -> My Division Time Table
+
+Question: How can I request a Regular Bonafide Certificate?
+Answer: You can request a Regular Bonafide Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Regular Bonafide Certificate
+
+Question: How do I apply for re-evaluation of my exam?
+Answer: You can apply for re-evaluation in the Apply for Re-evaluation section: https://learner.vierp.in/reval-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Re-evaluation
+
+Question: How can I request a Certificate of Course Duration?
+Answer: You can request a Certificate of Course Duration in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Certificate of Course Duration
+
+Question: How can I pay fees to participate in an event?
+Answer: You can pay the event fees by selecting the event in the Pay Event Fees section: https://learner.vierp.in/choose_event_insider. Steps to navigate: Login -> Home -> Event -> Pay Event Fees
+
+Question: How do I apply for a Duplicate Transfer Certificate (TC) in case of loss?
+Answer: You can request a Duplicate Transfer Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Duplicate TC
+
+Question: What is the lesson plan for [subject]?
+Answer: The lesson plan for a particular subject can be accessed from the 'Lesson Plan' section. Select the subject to view the weekly plan, which includes topics to be covered and learning objectives.
+
+Question: How do I access my regular Grade Card or Marksheet?
+Answer: You can access your Grade Card or Marksheet in the Grade Card section: https://learner.vierp.in/grade-card. Steps to navigate: Login -> Home -> Examination -> Grade Card/Marksheet
+
+Question: How can I apply for a backlog examination?
+Answer: You can apply for a backlog examination in the Apply for Backlog section: https://learner.vierp.in/backlog-registration. Steps to navigate: Login -> Home -> Examination -> Apply for Backlog
+
+Question: What events are planned for [month]?
+Answer: To find out what events are scheduled for a particular month, check the academic calendar section. This will show events such as sports, cultural fests, or academic activities planned by the institute.
+
+Question: How do I apply for a Bonafide Certificate for Passport?
+Answer: You can request a Bonafide for Passport in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Bonafide for Passport
+
+Question: How do I apply for a Transference Certificate?
+Answer: You can request a Transference Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Transference Certificate
+
+Question: Where can I view and download my annual fee receipt?
+Answer: You can view and download your annual fee receipt in the Fees Receipt section: https://learner.vierp.in/LearnerReceiptReport. Steps to navigate: Login -> Home -> Accounts -> Fees Receipt
+
+Question: Are there any important activities scheduled for [specific date]?
+Answer: To check important activities for a specific date, go to the academic calendar and choose the relevant date. It will display any scheduled events, exams, or holidays for that day.
+
+Question: What assignments do I have in [subject]?
+Answer: The list of assignments for a particular subject is available in the 'Assignments' section. Select the subject to view the details of the assignments, including due dates and instructions.
+
+Question: How can I pay fees for different options like certificates, fines, or other charges?
+Answer: You can pay fees for various options in the Pay Fees section: https://learner.vierp.in/AllPayFees. Steps to navigate: Login -> Home -> Accounts -> Pay Fees
+
+Question: Can you show me the syllabus for [course name]?
+Answer: The syllabus for a course can be accessed from the 'Syllabus' section. Select the course name to get the detailed syllabus, including units and topics covered throughout the semester.
+
+Question: How many lectures did I attend this week?
+Answer: You can find the details of the lectures you attended for the week by selecting the current week from the 'Attendance' section. It will display the number of lectures attended and missed for each subject.
+
+Question: Where can I request a Document Retention Certificate?
+Answer: You can request a Document Retention Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Document Retention Certificate
+
+Question: Where can I request a Date of Birth & Place of Birth Certificate?
+Answer: You can request a Date of Birth & Place of Birth Certificate in the Certificate section: https://learner.vierp.in/document-request. Steps to navigate: Login -> Home -> Certificate -> Date of Birth & Place of Birth Certificate
+
+Question: Where can I view my Backlog/Summer Grade Card or Marksheet?
+Answer: You can view your Backlog/Summer Grade Card or Marksheet in the Backlog/Summer Grade Card section: https://learner.vierp.in/grade-card-backlog. Steps to navigate: Login -> Home -> Examination -> Backlog/Summer Grade Card/Marksheet
+
+Question: Where can I view the documents I uploaded during admission?
+Answer: You can view the documents uploaded at the time of admission in the Document Checklist section: https://learner.vierp.in/documentreceipt. Steps to navigate: Login -> Home -> Admission -> Document Checklist
+
+Question: Can you show me the academic calendar for this year?
+Answer: The academic calendar is available in the student portal. Select the current academic year and semester, and it will display the entire academic schedule, including holidays, events, and examination dates. If it's unavailable, meet XXXX mam/sir at desk no. XX.
+
+Question: Where can I check the details of the social welfare scheme I applied for?
+Answer: You can check the details of your applied social welfare scheme in the Social Welfare Details section: https://learner.vierp.in/social-welfare-details. Steps to navigate: Login -> Home -> Accounts -> Social Welfare Details
+
+Question: How can faculty monitor my project progress?
+Answer: Faculty can monitor your project progress in the Project Monitoring Tab: https://learner.vierp.in/project-monitoring. They can assign tasks and track progress while students submit tasks through the same tab. Steps to navigate: Login -> Home -> Project Monitoring
+
+Question: What holidays are there in [month]?
+Answer: To view the holidays for a particular month, go to the academic calendar section. It will show you all the scheduled holidays for that month, including public holidays, institute-specific holidays, and breaks. If you still can't find it, please visit XXXX mam/sir at desk no. XX in the student department.
+
+Question: How can I register for elective subjects?
+Answer: You can register for elective subjects through the Student Joining/Registration section: https://learner.vierp.in/student-joining. Electives are assigned on a first-come, first-serve basis. Once registered, you can freeze the subject for the academic semester. Steps to navigate: Login -> Home -> Subject Registration -> Student Joining/Registration
